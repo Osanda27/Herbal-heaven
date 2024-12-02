@@ -11,9 +11,13 @@ Brief Description of Project
 Research Problem
 
 Do not have a specific system to identify Herbal plants & it’s specific parts, accurately
+
 Absence of reliable & personalized resources for Cultivators to resolve cultivation questions
+
 Limited Resources to identify diseases & treatment suggestions
+
 Inadequacy of resources in Identifying endangered herbal plants and their conservated
+
 
 Tools and Technologies
 ![Capture](https://github.com/user-attachments/assets/4cf1dfc5-c1a6-40aa-a36e-20fc30fbd2cf)
