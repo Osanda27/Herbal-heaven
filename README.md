@@ -23,4 +23,4 @@ Tools and Technologies
 ![Capture](https://github.com/user-attachments/assets/4cf1dfc5-c1a6-40aa-a36e-20fc30fbd2cf)
 
 
-![giphy](https://github.com/user-attachments/assets/354cd8ef-5c7f-4b25-b9d0-a327b55dd760)
+  ![giphy](https://github.com/user-attachments/assets/354cd8ef-5c7f-4b25-b9d0-a327b55dd760)
