@@ -9,6 +9,7 @@ Brief Description of Project
 
 
 Research Problem
+
 Do not have a specific system to identify Herbal plants & it’s specific parts, accurately
 Absence of reliable & personalized resources for Cultivators to resolve cultivation questions
 Limited Resources to identify diseases & treatment suggestions
