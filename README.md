@@ -1,6 +1,6 @@
-## Herbal-Heaven
-# Project Name: Aryu: Integrated framework For the Identification, conservation and sustainable management of herbal plants
-# 24-25J-178
+# Herbal-Heaven
+## Project Name: Aryu: Integrated framework For the Identification, conservation and sustainable management of herbal plants
+## 24-25J-178
 
 ![313682000-7f8c0d3b-868e-4041-8c25-57ce9b1d89b8](https://github.com/user-attachments/assets/709a05fd-7e28-4c43-9cf6-eff07fb16703)
 
