@@ -1,12 +1,12 @@
-# Herbal-heaven
-24-25J-178
+## Herbal-Heaven
+# Project Name: Aryu: Integrated framework For the Identification, conservation and sustainable management of herbal plants
+# 24-25J-178
 
 ![313682000-7f8c0d3b-868e-4041-8c25-57ce9b1d89b8](https://github.com/user-attachments/assets/709a05fd-7e28-4c43-9cf6-eff07fb16703)
 
 Brief Description of Project
-
 ![intro](https://github.com/user-attachments/assets/cc9716f9-91f5-4ba2-8946-33a9f7922881)
-
+Traditional medicine has been practiced in Sri Lanka for over 3,000 years, with Ayurveda, Siddha, Unani, and Deshiya Chikitsa being the four main treatment systems still in use today. Among these, Ayurveda is one of the oldest and most prominent, relying heavily on herbal plants for treating various ailments. However, the increasing demand for Ayurvedic medicinal materials, driven by rising health awareness, has highlighted significant challenges. These include difficulties in accurately identifying herbal plants due to species and seasonal variations, insufficient resources for cultivators to address questions about cultivation and diseases, and unplanned exploitation of rare medicinal plants, leading to endangerment or extinction. Furthermore, a lack of integration of modern technology in the herbal industry exacerbates these issues, leaving cultivators, practitioners, and consumers without reliable solutions. To address these challenges, our research introduces a comprehensive mobile application designed to streamline herbal plant identification, provide personalized cultivation guidance, suggest disease treatments, and promote conservation efforts, thereby bridging critical gaps in the traditional medicinal plant ecosystem.
 
 Research Problem
 
