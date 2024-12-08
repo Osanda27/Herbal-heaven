@@ -18,6 +18,11 @@ Research Problem
 
 4. Inadequacy of resources in Identifying endangered herbal plants and their conservated
 
+Overall System Diagrqam
+
+![Picture1](https://github.com/user-attachments/assets/745cb02f-43d6-4082-8bcb-73ea567dea09)
+
+
 
 Tools and Technologies
 ![Capture](https://github.com/user-attachments/assets/4cf1dfc5-c1a6-40aa-a36e-20fc30fbd2cf)
